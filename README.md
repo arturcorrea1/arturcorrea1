@@ -26,8 +26,3 @@
   <a href="mailto:arturcorrea8667@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/artur.correa16/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-<div>
-  [Snake animation](https://github.com/arturcorrea1/arturcorrea1/blob/output/github-contribution-grid-snake.svg)
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=arturcorrea1&repo=arturcorrea1&theme=react)](https://github.com/arturcorrea1/arturcorrea1)
-</div>
