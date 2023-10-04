@@ -28,5 +28,6 @@
 </div>
 
 <div>
-  ![Snake Animation](https://github.com/arturcorrea1)
+  [Snake animation](https://github.com/arturcorrea1/arturcorrea1/blob/output/github-contribution-grid-snake.svg)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=arturcorrea1&repo=arturcorrea1&theme=react)](https://github.com/arturcorrea1/arturcorrea1)
 </div>
