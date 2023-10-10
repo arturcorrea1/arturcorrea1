@@ -1,4 +1,4 @@
-# Olá! Eu sou o Artur Corrêa! 🙂 
+# Olá! Eu sou Artur Corrêa! 🙂 
 
 - 🔭 Atualmente não trabalho
 - 🌱 Estudando Front-End
@@ -7,8 +7,7 @@
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcorrea1&show_icons=true&theme=dark">
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcorrea1&show_icons=true&theme=darcula</div>
 
 ##
 
