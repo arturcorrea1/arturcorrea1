@@ -3,7 +3,6 @@
 - 🔭 Atualmente não trabalho
 - 🌱 Estudando Front-End
 - 😄 Pronomes: Ele/dele
-
 ##
 
 <div>
