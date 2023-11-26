@@ -1,7 +1,7 @@
 # Olá! Eu sou Artur Corrêa! 🙂 
 
 - 🔭 Atualmente não trabalho
-- 🌱 Estudando Front-End
+- 🌱 Estudando Front e Back-End
 - 😄 Pronomes: Ele/dele
   
 ##
