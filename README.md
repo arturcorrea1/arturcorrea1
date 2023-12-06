@@ -2,10 +2,10 @@
 
 - 🔭 Atualmente não trabalho
 - 🌱 Estudando Front e Back-End
-- 😄 Pronomes: Ele/dele
+- 😄 Profissional carismático e organizado
   
-##
 
+# Meus stats do GitHub
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcorrea1&show_icons=true&theme=dracula">
 </div>
