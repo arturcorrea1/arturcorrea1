@@ -2,15 +2,13 @@
 
 - 🔭 Atualmente não trabalho
 - 🌱 Estudando Front e Back-End
-- 😄 Profissional carismático e organizado
+- 🤔 Procurando novas oportunidades
   
 
-# Meus stats do GitHub
+### Meus stats do GitHub
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcorrea1&show_icons=true&theme=dracula">
 </div>
-
-##
 
 ### Linguagens 💻
 <div style="display: inline_block">
@@ -20,7 +18,6 @@
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
-##
 
 ### Minhas redes sociais 📫
 <div>
