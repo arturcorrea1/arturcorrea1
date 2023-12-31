@@ -1,9 +1,11 @@
+
+
 # Olá! Eu sou Artur Corrêa! 🙂 
 
 - 🔭 Atualmente não trabalho
 - 👨‍💻 Estudando Front e Back-End
 - 🚀 Explorando novas tecnologias.
-- 🔍 Explorando oportunidades profissionais.
+- 🔍 Procurando oportunidades profissionais.
 
 ### Meus stats do GitHub
 <div>
