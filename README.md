@@ -1,4 +1,4 @@
-<img width="750" height="400" src="dae36a74337de05e249ce5afcec907c1.gif">
+<img width="700" height="400" src="dae36a74337de05e249ce5afcec907c1.gif">
 
 Estudante fullstack em curso técnico
 
