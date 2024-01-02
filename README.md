@@ -1,16 +1,13 @@
+<img width="750" height="400" src="dae36a74337de05e249ce5afcec907c1.gif">
 
+# Oi, eu sou Artur Corrêa
 
-# Oi, eu sou Artur Corrêa! 
+Estudante fullstack em curso técnico
 
-- 🔭 Atualmente não trabalho
-- 👨‍💻 Estudando Front e Back-End
-- 🚀 Explorando novas tecnologias.
-- 🔍 Procurando oportunidades profissionais.
-
-### Meus stats do GitHub
+### Stats do GitHub
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcorrea1&show_icons=true&theme=github_dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcorrea1&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcorrea1&show_icons=true&theme=codeSTACKr">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcorrea1&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
 ### Linguagens 💻
@@ -22,7 +19,7 @@
 </div>
 
 
-### Minhas redes sociais 📫
+### Redes sociais 📫
 <div>
   <a href="https://twitter.com/artur_correa16" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artur-corrêa-550500265/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
