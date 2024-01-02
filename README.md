@@ -1,7 +1,5 @@
 <img width="750" height="400" src="dae36a74337de05e249ce5afcec907c1.gif">
 
-# Oi, eu sou Artur Corrêa
-
 Estudante fullstack em curso técnico
 
 ### Stats do GitHub
