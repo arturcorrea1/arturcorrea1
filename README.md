@@ -1,6 +1,6 @@
-<img width="700" height="400" src="dae36a74337de05e249ce5afcec907c1.gif">
+# Estudante fullstack em curso técnico - 2º ano
 
-Estudante fullstack em curso técnico - 2º ano
+<img width="700" height="400" src="dae36a74337de05e249ce5afcec907c1.gif">
 
 ### Stats 
 <div>
