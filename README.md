@@ -18,6 +18,6 @@
 
 <br>
 
-![snake gif](https://github.com/arturcorrea1/arturcorrea1/blob/output/github-contribution-grid-snake.gif)
+
 
 
