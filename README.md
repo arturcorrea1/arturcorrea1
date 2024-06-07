@@ -16,4 +16,8 @@
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
+<br>
+
+![snake gif](https://github.com/arturcorrea1/arturcorrea1/blob/output/github-contribution-grid-snake.gif)
+
 
