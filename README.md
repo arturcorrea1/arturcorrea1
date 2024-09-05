@@ -1,4 +1,4 @@
-# estudante fullstack 2º ano
+# junior do junior fullstack2ano
  
 <img width="700" height="400" src="cateatingthenlookingatthecamerameme-ezgif.com-video-to-gif-converter.gif">
 
