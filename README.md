@@ -1,6 +1,6 @@
 # Full Stack 2º Ano Senac
 
-<img width="700" height="400" src="cateatingthenlookingatthecamerameme-ezgif.com-video-to-gif-converter.gif">
+<img width="600" height="300" src="cateatingthenlookingatthecamerameme-ezgif.com-video-to-gif-converter.gif">
 
 ### stats 
 <div>
