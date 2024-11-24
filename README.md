@@ -1,5 +1,7 @@
 # Full Stack 2º Ano Senac
 
+<img width="700" height="400" src="cateatingthenlookingatthecamerameme-ezgif.com-video-to-gif-converter.gif">
+
 ### stats 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcorrea1&show_icons=true&rank_icon=github&theme=codeSTACKr"> 
