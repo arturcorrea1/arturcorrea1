@@ -1,4 +1,4 @@
-# dev junio 2 ano senaqer
+# dev junio 2 ano ensino medio do senac
 
 <img width="600" height="300" src="cateatingthenlookingatthecamerameme-ezgif.com-video-to-gif-converter.gif">
 
