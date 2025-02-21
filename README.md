@@ -1,4 +1,4 @@
-# dev junio 2º ano ensino medio do senac
+# 3º Ano Ensino Médio SENAC
 
 <img width="600" height="300" src="cateatingthenlookingatthecamerameme-ezgif.com-video-to-gif-converter.gif">
 
