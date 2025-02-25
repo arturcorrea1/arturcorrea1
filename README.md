@@ -1,8 +1,8 @@
-# 3º Ano Ensino Médio SENAC
+# Oi 👋 eu sou o Artur, estudante do 3º Ano Ensino Médio SENAC
 
 <img width="600" height="300" src="cateatingthenlookingatthecamerameme-ezgif.com-video-to-gif-converter.gif">
 
-### stats 
+### Meus Stats 📊
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturcorrea1&show_icons=true&rank_icon=github&theme=codeSTACKr"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturcorrea1&layout=compact&langs_count=7&theme=codeSTACKr"/>
