@@ -10,7 +10,7 @@
 
 💬 Feel free to ask me about front and back-end development, my experience as a technical student, or collaborating on projects.
 
-"If it works, don’t touch it" – Someone very wise
+_"If it works, don’t touch it"_ – Someone very wise
 
 
 <h3 align="center">
