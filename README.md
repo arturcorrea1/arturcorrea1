@@ -6,11 +6,9 @@
 
 👯‍♀️ Looking to collaborate on web development projects. I’m good at working in teams.
 
-🤔 Seeking help to improve my skills with frameworks and best programming practices.
+🤔 Seeking help to improve my skills with frameworks and looking for better programming practices.
 
-💬 Feel free to ask me about front-end development, my experience as a technical student, or collaborating on projects.
-
-⚡️ Fun fact: I’m passionate about technology, but I still haven’t decided if I prefer chimarrão or coffee!
+💬 Feel free to ask me about front and back-end development, my experience as a technical student, or collaborating on projects.
 
 "If it works, don’t touch it" – Someone very wise
 
@@ -34,7 +32,6 @@
 ### 🌐 Socials
 📫 Want to send me a message? Send me an email!  
 📧 E-mail: [arturcorrea8667@gmail.com]  
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
