@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=2000&pause=2000&color=FF652F&background=09131B00&width=501&lines=Hi+%F0%9F%91%8B+My+name+is+Artur+Correa;Im+currently+a+SENAC+student+%F0%9F%99%87%E2%80%8D%E2%99%82%EF%B8%8F;Hope+you+like+my+projects+%F0%9F%99%83)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi👋%20My%20name%20is%20Artur😃&fontSize=60&section=header)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=850&size=30&duration=2500&pause=2000&color=FF652F&center=true&vCenter=true&width=900&lines=Im+currently+a+SENAC+student+%F0%9F%99%87%E2%80%8D%E2%99%82%EF%B8%8F;Hope+you+like+my+projects+%F0%9F%92%BB%F0%9F%99%83)](https://git.io/typing-svg)
+
+### About me 😆
 
 👨‍💻 Studying programming in a technical course integrated with high school.
 
@@ -26,7 +30,9 @@ _"If it works, don’t touch it"_ – Someone very wise
 </div>
 
 ### 💻 Tech Stack
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 ### 🌐 Socials
