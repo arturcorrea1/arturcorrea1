@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-      <img heihgt="180em" src= "https://nirzak-streak-stats.vercel.app/?user=arturcorrea1&theme=codeSTACKr&hide_border=false">
+    <img heihgt="180em" src= "https://nirzak-streak-stats.vercel.app/?user=arturcorrea1&theme=codeSTACKr&hide_border=false">
 </div>
 
 ### 💻 Tech Stack
